@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Nean Verg Ordinario, 19 years of age & College at WVSU with the course of BSCS.
+I'm Nean Verg Ordinario, 20 years of age & College at WVSU with the course of BSCS.
 Currently living in Iloilo, Philippines.
 - 🔭 My hobbies are cycling, camping, studying technology, nature photography, music, playing videogames and theorycrafting.
 - 🌱 I’m currently learning coding on my first year in College.
