@@ -52,6 +52,8 @@ Let's Connect!
 
 <br clear="both">
 
+My Github Contributions:
+
 ![snake gif](https://github.com/neanverg/neanverg/blob/output/github-contribution-grid-snake.svg)
 
 ###
