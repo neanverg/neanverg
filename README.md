@@ -2,6 +2,7 @@
 
 ###
 I specialize in DevOps and Software Development.
+
 Currently studying Cybersecurity & Machine Learning.
 
 
