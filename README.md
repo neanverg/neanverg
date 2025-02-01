@@ -1,9 +1,8 @@
-<h2 align="left">Hi 👋! I'm Nean and I'm a DevOps, from Iloilo, PH</h2>
+<h2 align="left">Hi 👋! I'm Nean and I'm an IT Specialist, from Iloilo, PH</h2>
 
 ###
-I specialize in DevOps and Software Development.
+I specialize in IT and Software/Web Development.
 
-Currently studying Cybersecurity & Machine Learning.
 
 
 <div align="center">
