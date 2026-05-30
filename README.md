@@ -1,7 +1,7 @@
-<h2 align="left">Hi 👋! I'm Nean and I'm an IT Specialist, from Iloilo, PH</h2>
+<h2 align="left">Hi 👋! I'm Nean and I'm a Developer from Iloilo, PH</h2>
 
 ###
-I specialize in IT and Software/Web Development.
+I specialize in Software/Web Development with a Background in Compliance and Legal.
 
 
 
